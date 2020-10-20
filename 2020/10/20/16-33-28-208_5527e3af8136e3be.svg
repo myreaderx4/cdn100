@@ -1,0 +1,12 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="68" y="16" width="160" height="110" rx="8" fill="var(--color-contrast-high)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="78" y="26" width="140" height="90" fill="var(--color-contrast-lower)"/>
+<path d="M128.364 62.7273C132.43 62.7273 135.727 59.4305 135.727 55.3636C135.727 51.2968 132.43 48 128.364 48C124.297 48 121 51.2968 121 55.3636C121 59.4305 124.297 62.7273 128.364 62.7273Z" fill="var(--color-contrast-medium)"/>
+<path d="M121 93.409L154.136 59.0454L175 93.409H121Z" fill="var(--color-contrast-medium)"/>
+<path d="M132 127H164L166 147H130L132 127Z" fill="var(--color-contrast-low)"/>
+<path d="M130 147H166L174.293 155.293C174.923 155.923 174.477 157 173.586 157H122.414C121.523 157 121.077 155.923 121.707 155.293L130 147Z" fill="var(--color-contrast-low)"/>
+<rect x="32" y="76" width="56" height="90" rx="10" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="36" y="84" width="48" height="72" rx="3" fill="var(--color-contrast-lower)"/>
+<path d="M48.312 115.624C50.6935 115.624 52.6241 113.694 52.6241 111.312C52.6241 108.931 50.6935 107 48.312 107C45.9306 107 44 108.931 44 111.312C44 113.694 45.9306 115.624 48.312 115.624Z" fill="var(--color-contrast-medium)"/>
+<path d="M44 133.591L63.4042 113.468L75.6216 133.591H44Z" fill="var(--color-contrast-medium)"/>
+</svg>
